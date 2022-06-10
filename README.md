@@ -1,4 +1,4 @@
-#Netflify, Supabase, Tailwind, Cypress, Prettier, ESLint and TS App
+# Netflify, Supabase, Tailwind, Cypress, Prettier, ESLint and TS App
 Remix in progress now by J. A.
 
 ## What's in the stack
