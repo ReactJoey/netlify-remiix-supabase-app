@@ -1,6 +1,8 @@
-# Netflify, Supabase, Tailwind, Cypress, Prettier, ESLint and TS App
+# TS, Tailwind, Supabase and Netlify App
 
-Remix in progress now by J. A. - will add and change many things soon. Includes netlify, remiix, supabase, typescript and more.
+In progress now - will add and change many things.
+Includes typescript, tailwind, remiix, supabase and is deployed via netlify.
+Remix in progress now by J. A.
 
 ## What's in the stack
 
